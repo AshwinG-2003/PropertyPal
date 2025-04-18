@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143938616554",
+    "project_id": "properypal",
+    "storage_bucket": "properypal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143938616554:android:b4a11be4f362b03dcaab93",
+        "android_client_info": {
+          "package_name": "com.example.propertypal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeNS9feG07iokO8ZY1eJeO9X_xDtBrl8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
